@@ -73,9 +73,14 @@ Cada aluno deverá personalizar seu projeto de acordo com o tema escolhido. Exem
 - Portal de Noticias Estudantil
 - Portal de Noticias de Fofocas
 - Portal de Noticias sobre o Mundo
-
-> Essa diferenciação pode ser refletida no layout, nos conteúdos exibidos e até mesmo nos filtros disponíveis na página principal.
-
+- Portal de Notícias de Games e E-Sports
+- Portal de Notícias de Moda e Estilo
+- Portal de Notícias de Saúde e Bem-Estar
+- Portal de Notícias de Curiosidades e Fatos Históricos
+- Portal de Notícias de Fake News (Sátira)
+- Portal de Notícias Regionais
+- Portal de Notícias Religiosas ou Filosóficas
+- Portal de Notícias Ambientais
 ---
 
 ## 🎨 Estilização
