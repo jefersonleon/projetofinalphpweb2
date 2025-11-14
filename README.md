@@ -160,8 +160,8 @@ Cada aluno deverá personalizar seu projeto de acordo com o tema escolhido. Exem
 
 | Etapa           | Data limite |
 |-----------------|-------------|
-| Entrega Regular | 25/06/2025  |
-| Prazo Extra     | 26/06/2025  |
+| Entrega Regular | 19/11/2025  |
+| Prazo Extra     | 24/11/2025  |
 
 ---
 
