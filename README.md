@@ -67,20 +67,24 @@ O campo `autor` na tabela `noticias` deve referenciar o `id` do usuário logado.
 
 Cada aluno deverá personalizar seu projeto de acordo com o tema escolhido. Exemplos:
 
-- Portal de Notícias Esportivas
-- Portal de Noticias sobre Cultura e Arte
-- Portal de Noticias sobre Tecnologia e Inovação
-- Portal de Noticias Estudantil
-- Portal de Noticias de Fofocas
-- Portal de Noticias sobre o Mundo
-- Portal de Notícias de Games e E-Sports
-- Portal de Notícias de Moda e Estilo
-- Portal de Notícias de Saúde e Bem-Estar
-- Portal de Notícias de Curiosidades e Fatos Históricos
-- Portal de Notícias de Fake News (Sátira)
-- Portal de Notícias Regionais
-- Portal de Notícias Religiosas ou Filosóficas
-- Portal de Notícias Ambientais
+01 - Portal de Notícias Esportivas
+02 - Portal de Noticias sobre Cultura e Arte
+03 - Portal de Noticias sobre Tecnologia e Inovação
+04 - Portal de Noticias Estudantil
+05 - Portal de Noticias de Fofocas
+06 - Portal de Noticias sobre o Mundo
+07 - Portal de Notícias de Games e E-Sports
+08 - Portal de Notícias de Moda e Estilo
+09 - Portal de Notícias de Saúde e Bem-Estar
+10 - Portal de Notícias de Curiosidades e Fatos Históricos
+11 - Portal de Notícias de Fake News (Sátira)
+12 - Portal de Notícias Regionais
+13 - Portal de Notícias Religiosas ou Filosóficas
+14 - Portal de Notícias Ambientais
+15 - Portal de Noticias Gastronomia e Receitas
+16 - Portal de Noticias Economia e Finanças Pessoais
+17 - Portal de Noticias Cinema, Séries e Streaming
+18 - Portal de Noticias Astronomia e Ciência Espacial
 ---
 
 ## 🎨 Estilização
