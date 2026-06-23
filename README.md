@@ -170,8 +170,8 @@ Cada aluno deverá personalizar seu projeto de acordo com o tema escolhido. Exem
 
 | Etapa           | Data limite |
 |-----------------|-------------|
-| Entrega Regular | 13/04/2026  |
-| Prazo Extra     | 15/04/2026  |
+| Entrega Regular | 26/06/2026  |
+| Prazo Extra     | 29/06/2026  |
 
 ---
 
