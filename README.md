@@ -85,6 +85,12 @@ Cada aluno deverá personalizar seu projeto de acordo com o tema escolhido. Exem
 - Portal de Noticias Economia e Finanças Pessoais (16)
 - Portal de Noticias Cinema, Séries e Streaming (17)
 - Portal de Noticias Astronomia e Ciência Espacial (18)
+- Portal de Notícias sobre Pets e Mundo Animal (19)
+- Portal de Notícias de Viagens e Turismo (20)
+- Portal de Notícias de Carreira e Empreendedorismo (21)
+- Portal de Notícias Automotivas e Mobilidade Urbana (22)
+- Portal de Notícias sobre Causas Sociais e Cidadania (23)
+- Portal de Notícias de Música, Shows e Festivais (24)
 ---
 
 ## 🎨 Estilização
